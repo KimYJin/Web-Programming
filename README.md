@@ -1,7 +1,7 @@
 # Web-Programming
 create Web Site where students can organize study groups efficiently
 
-<img src="https://user-images.githubusercontent.com/23073504/62825104-87175600-bbe1-11e9-9bab-004320f26b37.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/23073504/62825150-10c72380-bbe2-11e9-92a5-a41276bffaf0.png" width="80%"></img>
 
 
 1. Web site name : Gachon Study Group Web
