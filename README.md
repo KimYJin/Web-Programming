@@ -1,17 +1,14 @@
 # Web-Programming
-create Web Site where students can organize study groups efficiently
-
+create Web Site where students can organize study groups efficiently <br>
+### Gachon Study Group Web
 <img src="https://user-images.githubusercontent.com/23073504/62825150-10c72380-bbe2-11e9-92a5-a41276bffaf0.png" width="80%"></img>
-
-
-# 1. Web site name : Gachon Study Group Web
 
 # 2. Idea
 - Studying in the study group is more efficient than studying alone.
 - It is difficult to  find study members who have same learning goals.
 - So, I decided to create a Web Site where students can organize study groups efficiently
 
-# 3. Details <br><br>
+# 3. Details <br>
 ### 3-1. Main page (Home)<br>
 (1) View study group list   <br>
 -index.jsp : Get all study group lists from the database. Users are expected to find it difficult to add pictures separately, so the picture that match the title is randomly taken from the unlash site and displayed.
